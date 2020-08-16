@@ -1,10 +1,9 @@
 package git_project_sonders;
 
-public class OrtakCalisma {
+public class SonDersTekrar {
 
 	public static void main(String[] args) {
-		
-		System.out.println("Eclipse den yazildi");
+		// TODO Auto-generated method stub
 
 	}
 
