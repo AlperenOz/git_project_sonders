@@ -6,6 +6,8 @@ public class SonDersTekrar {
 		System.out.println("3:55 master branch");
 
 		System.out.println("4:04 feature branch");
+		
+		System.out.println("4:17 feature branch");
 	}
 
 }
